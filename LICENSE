@@ -1,0 +1,56 @@
+DOCUVERSE – LICENCIA DE USO Y REDISTRIBUCIÓN (FREEWARE NO COMERCIAL)
+Versión: 1.0
+Fecha: 2025-12-24
+Titular de derechos (“Licenciante”): Docuverse / fmoralesaliaga
+Contacto: contacto@multiverse.cl
+Repositorio de releases: https://github.com/fmoralesaliaga/docuverse-releases
+
+1) Aceptación
+Al instalar, copiar o usar el Software, aceptas esta licencia. Si no estás de acuerdo, no lo uses ni lo redistribuyas.
+
+2) Definiciones
+- “Software”: la aplicación Docuverse en forma binaria/instalador y sus componentes incluidos en el instalador (por ejemplo, Docuverse-Setup-*.exe, latest.yml, *.blockmap).
+- “Instalador”: el archivo oficial de instalación distribuido por el Licenciante.
+- “Uso no comercial”: uso sin fines comerciales ni ventaja comercial directa o indirecta, incluyendo (sin limitar) venta, arriendo, licenciamiento pago, cobro por acceso, o uso como parte de un servicio comercial.
+
+3) Licencia de uso (No comercial)
+Se te concede una licencia personal, revocable, no exclusiva, no transferible para instalar y usar el Software solo para fines no comerciales.
+
+4) Redistribución permitida (solo Instalador sin modificar)
+Se permite redistribuir el Instalador únicamente si:
+1. Se redistribuye sin modificaciones (sin alterar el archivo, sin reempaquetar, sin inyectar software adicional).
+2. Se mantiene el nombre del producto y la atribución al Licenciante.
+3. La redistribución es gratuita (no puedes vender el instalador ni cobrar por el Software).
+4. Se distribuye esta licencia junto al Instalador (por ejemplo, incluyendo este texto en la página de descarga o como archivo LICENSE adjunto).
+
+5) Restricciones
+No está permitido:
+- Usar el Software con fines comerciales.
+- Modificar, traducir, adaptar, crear obras derivadas, descompilar, hacer ingeniería inversa o intentar extraer el código fuente, salvo donde la ley lo permita expresamente.
+- Eludir medidas técnicas o de seguridad.
+- Quitar avisos de copyright, marcas o atribuciones.
+- Distribuir versiones modificadas, “portables” reempaquetadas o instaladores alterados.
+
+6) Marcas y nombre
+“Docuverse” y sus logotipos pueden ser marcas del Licenciante. Esta licencia no concede permisos sobre marcas, salvo para referirse al Software al redistribuir el Instalador oficial sin modificar.
+
+7) Actualizaciones
+El Software puede buscar y descargar actualizaciones desde los canales oficiales del Licenciante. Las actualizaciones se rigen por esta misma licencia salvo que se indique lo contrario.
+
+8) Privacidad
+El Software está diseñado para procesar archivos localmente. Sin perjuicio de lo anterior, el Licenciante no garantiza que el Software no realice solicitudes de red (por ejemplo, para verificar actualizaciones). No se ofrece garantía sobre prácticas específicas de terceros (p. ej., GitHub).
+
+9) Propiedad intelectual
+El Software se licencia, no se vende. Todos los derechos no concedidos expresamente quedan reservados por el Licenciante.
+
+10) Terminación
+Esta licencia termina automáticamente si incumples sus términos. Al terminar, debes dejar de usar el Software y eliminar copias bajo tu control.
+
+11) Exclusión de garantías
+EL SOFTWARE SE ENTREGA “TAL CUAL” (“AS IS”), SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS O IMPLÍCITAS, INCLUYENDO (SIN LIMITAR) GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+12) Limitación de responsabilidad
+EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL LICENCIANTE NO SERÁ RESPONSABLE POR DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES, CONSECUENTES O PUNITIVOS, NI POR PÉRDIDA DE DATOS, BENEFICIOS O INTERRUPCIÓN DEL NEGOCIO, DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL SOFTWARE.
+
+13) Ley aplicable
+Esta licencia se regirá por las leyes de la República de Chile, sin considerar normas de conflicto de leyes.
